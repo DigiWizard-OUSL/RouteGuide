@@ -4,6 +4,7 @@ NAVIGATION SYSTEM FOR THE OUSL NAWALA CAMPUS
 "NAVIGATION SYSTEM FOR THE OUSL NAWALA CAMPUS" project is to address the navigation challenges within the Open University of Sri Lanka (OUSL) Nawala campus and enhance the overall campus experience. By leveraging modern technologies, the project aims to provide a sophisticated navigation system that not only guides users seamlessly through the campus but also contributes to improved resource utilization, time efficiency, and emergency preparedness. This project aligns with the university's commitment to fostering a positive and efficient learning and working environment.
 
 #App features
+
 • Personalized Profiles
 Users can create personalized profiles within the app, allowing for a customized
 navigation experience tailored to their preferences and requirements.
