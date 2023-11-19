@@ -8,6 +8,7 @@ NAVIGATION SYSTEM FOR THE OUSL NAWALA CAMPUS
 • Personalized Profiles
 Users can create personalized profiles within the app, allowing for a customized
 navigation experience tailored to their preferences and requirements.
+
 • Interactive Campus Maps
 Utilizing GPS tracking and indoor positioning systems, the app provides interactive
 campus maps that display the locations of buildings, facilities, and key points of interest
